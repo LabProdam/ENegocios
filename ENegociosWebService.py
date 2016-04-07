@@ -11,7 +11,7 @@ Este código fornece funções para utilizar o WebService E-Negócios, que foi f
 		texts precisa ser uma lista de strings a serem pesquisadas
 	searchPeriods(periods,folder_name=None)
 
-Se fornecer, em qualquer uma das funções à cima, file_name ou folder_name, 
+Se fornecer, em qualquer uma das funções acima, file_name ou folder_name, 
 precisa ser no formato string válido para se nomear um arquivo ou pasta, respectivamente
 '''
 import urllib
