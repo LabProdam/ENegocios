@@ -47,7 +47,7 @@ min_date e max_date precisam seguir o modelo "dd-mm-aaaa"
 >se for dado um nome à pasta, as pesquisas serão salvas separadamente dentro dessa pasta
 >Retorna uma lista de dicionários que representam as linhas encontradas em todas as pesquisas
 
-	Se fornecer, em qualquer uma das funções à cima, file_name ou folder_name, 
+	Se fornecer, em qualquer uma das funções acima, file_name ou folder_name, 
 	precisa ser no formato string válido para se nomear um arquivo ou pasta, respectivamente.
 
 ##Requerimentos
